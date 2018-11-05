@@ -7,7 +7,7 @@ VisualResume::VisualResume(
   timeline = data.frame(title = c("Universidad de Chile", "Universidad de Chile", "Universidad de Chile", "Universidad de Chile", "Universidad de Chile", "Universidad de Chile", "Universidad de Chile",
                                   "Universidad de Chile", "Universidad Diego Portales", "Universidad Diego Portales"),
                         sub = c("BA. Economics", "MSc. Finance (c)", "Introducción a la tecnología", "Econometría Aplicada", "Finanzas I" , "Tópicos en Economía y Negocios utilizando R", 
-                                "Entorno Económico para los negocios", "Econometría Avanzada", "R para Economía y Negocios", "Econometría I"),
+                                "Entorno Económico para lo negocios", "Econometría Avanzada", "R para Economía y Negocios", "Econometría I"),
                         start = c(2012, 2017, 2015, 2017, 2018, 2018, 2018.5, 2018.5, 2018.5, 2018.5),
                         end = c(2017, 2019, 2017, 2018, 2019, 2019, 2019, 2019, 2019, 2019),
                         side = c(1, 1, 0, 0, 0, 0, 0, 0, 1, 1)),
