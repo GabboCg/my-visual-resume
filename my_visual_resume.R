@@ -22,3 +22,4 @@ VisualResume::VisualResume(
                    "leadership" = c(rep("Motivation", 10), rep("Decision Making", 5), rep("Manipulation", 30))),
   year.steps = 1
 )
+ 
